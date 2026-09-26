@@ -1,0 +1,6 @@
+dataset/
+output/
+temp_output.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
